@@ -1,0 +1,13 @@
+﻿-Fix PlayByPlay records or query so that a 'Caught Stealing' event doesn't count as a plate appearance for/against batter or pitcher??
+Ex:
+PlayByPlayID=463
+GameID=566763
+BatterID=623520
+
+-predict pitching changes
+
+-when switching to percents, replace PA with BA
+
+-scrape odds. sportsbookreview ??
+
+-if there is a low sample size for batters faced or plate appearances, find a way to better predict probabilities

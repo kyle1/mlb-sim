@@ -1,0 +1,1 @@
+﻿Data Source=Kyle-PC\\SQLEXPRESS;Initial Catalog=baseball;Integrated Security=True
